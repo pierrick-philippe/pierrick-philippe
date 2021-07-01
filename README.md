@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @pierrick-philippe, my first and last names are easy to determine
+- 👋 Hi, I’m @pierrick-philippe, my first and last names are easy to determine: Pierrick PHILIPPE
+- I work at Orange DATA & IA 
 - 👀 I’m interested in machine learning for media coding and analysis
 - 📫 How to reach me ... you should guess
 
